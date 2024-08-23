@@ -60,7 +60,7 @@ Volatility Calculation: Use statistical methods to calculate stock price volatil
 
 Return Analysis: Analyze daily returns and their distribution for each stock.
 
-3. Visualization
+4. Visualization
    
 Time Series Plots: Plot stock prices, moving averages, and volatility measures over time.
 
